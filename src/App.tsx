@@ -1,7 +1,7 @@
 import React from "react";
 import RouterConfig from "./RouterConfig";
 import Header from "./pages/Header";
-import "./main.css";
+
 
 export default function App() {
   return (
