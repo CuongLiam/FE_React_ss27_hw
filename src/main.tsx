@@ -6,7 +6,8 @@ import { BrowserRouter } from "react-router";
 // import App from "./ep3/App";
 // import App from "./ep4/App";
 // import App from "./ep5/App";
-import App from "./ep6/App";
+// import App from "./ep6/App";
+import App from "./ep7/App";
 import "./main.css";
 createRoot(document.getElementById("root")!).render(
   <BrowserRouter>
